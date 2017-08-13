@@ -1,8 +1,6 @@
 package learn_today.learn_today.ds.tree;
 
 import java.util.LinkedList;
-import java.util.List;
-
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
